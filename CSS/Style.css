@@ -1,3 +1,12 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.banner-container{
+    background-color: cyan;
+}
+.banner-column{
+    background-color: darkturquoise;
+}
+.navbar-container{
+    background-color: rgb(82, 70, 70);
+}
